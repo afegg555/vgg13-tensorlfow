@@ -1,4 +1,4 @@
-# vgg13-tensorlfow
+# vgg13-tensorflow
 
 - This is a new implementation of VGG13 Convolutional Neural network with the new TensorFlow APIs (TensorFlow > v1.4)
 
